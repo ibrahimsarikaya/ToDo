@@ -1,5 +1,5 @@
 # ToDo
 ----------------
-## Codding by İbrahim SARIKAYa
+## Codding by İbrahim SARIKAYA
 ----------------
 [My Patika Profile](https://app.patika.dev/ibro)
